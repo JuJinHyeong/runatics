@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{8C3967EF-EA5C-CD2A-F191-ADB2A5FEC7D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/02Scripts/PlayerController.cs" Line="76" Column="6" />
+      <File FileName="Assets/02Scripts/PlayerMain.cs" Line="10" Column="24" />
+      <File FileName="Assets/02Scripts/FollowCam.cs" Line="15" Column="24" />
+      <File FileName="Assets/02Scripts/PortalController.cs" Line="22" Column="10" />
+      <File FileName="Assets/02Scripts/01Base/BaseCharacterController.cs" Line="18" Column="40" />
+      <File FileName="Assets/02Scripts/01Base/BaseShootingControl.cs" Line="14" Column="1" />
+      <File FileName="Assets/02Scripts/SwordAuraControl.cs" Line="11" Column="37" />
+      <File FileName="Assets/02Scripts/BounceMap.cs" Line="13" Column="49" />
+      <File FileName="Assets/02Scripts/PlayerBodyController.cs" Line="13" Column="33" />
+      <File FileName="Assets/02Scripts/MovingBlockController.cs" Line="36" Column="10" />
+      <File FileName="Assets/02Scripts/ArmColliderController.cs" Line="6" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.com.unity.postprocessing.Editor PreferredExecutionTarget="Unity.Editor" />
+</Properties>

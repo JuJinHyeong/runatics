@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - GROUND
+  - WALL
+  - PLAYER
+  - MAGICATTACK
+  - ATTACK
+  - DEAD_TRAP
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level
+  - Enemy
+  - Usable
+  - Interactable
+  - IgnorePlayer
+  - Player
+  - Cameras
+  - LitSprites
+  - Destructable
+  - EnemyWeapon
+  - BossWeakPoint
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PlayerDrop
+  - Platform
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 2116099231
+    locked: 0
+  - name: Level
+    uniqueID: 2344118779
+    locked: 0
+  - name: Front
+    uniqueID: 3405993979
+    locked: 0
+  - name: Back
+    uniqueID: 3775448933
+    locked: 0
+  - name: Ground
+    uniqueID: 3003657335
+    locked: 0
+  - name: Player
+    uniqueID: 3913935235
+    locked: 0
+  - name: Object
+    uniqueID: 4186265299
+    locked: 0
+  - name: Item
+    uniqueID: 2446505127
+    locked: 0
